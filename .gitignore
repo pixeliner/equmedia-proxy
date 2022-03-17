@@ -1,0 +1,6 @@
+# Env
+.env
+
+# Secrets
+secrets/private-key.key
+secrets/public-cert.crt
